@@ -1,1 +1,1 @@
-# projects
+# A repo for coding exercises
